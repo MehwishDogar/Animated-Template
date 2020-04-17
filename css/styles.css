@@ -122,7 +122,7 @@ body{
   height: 10px;
   width: 50px;
   display: block;
-  transform: translateY(8px);
+  transform: translateY(18px);
 }
 #services .btn-primary{
   padding: 8px 25px;
